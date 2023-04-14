@@ -3,6 +3,7 @@
 body {
     box-sizing: border-box;
     font-family: 'Outfit', sans-serif;
+    font-size: 15px;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -37,17 +38,12 @@ body {
 }
 
 #infos>h3 {
-    font-size: 1.5em;
+    font-size: 1.6em;
     color: hsl(218, 44%, 22%);
 }
 
 #infos h3+p {
     padding: 0 7px;
-    font-size: 1.01em;
+    font-size: 1.1em;
     color: hsl(220, 15%, 55%);
 }
-
-- White: hsl(0, 0%, 100%)
-- Light gray: hsl(212, 45%, 89%)
-- Grayish blue: hsl(220, 15%, 55%)
-- Dark blue: hsl(218, 44%, 22%)
