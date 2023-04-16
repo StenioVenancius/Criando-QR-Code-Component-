@@ -22,3 +22,6 @@ Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo vis
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Visão Geral
+### Captura de tela
+![](./design/Resolu%C3%A7%C3%A3o.png)
