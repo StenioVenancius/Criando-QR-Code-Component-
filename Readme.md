@@ -1,26 +1,24 @@
-# Frontend Mentor - QR code component solution
+## Pt-Br
+------------------------------------------------------------------------------------------------------------------------------------------------ 
+# Frontend Mentor - Solução de Componente de Qr Code
+Olá! 
+Seja muito bem-vindo(a) a minha solução para o desafio do Componente de Qr Code no Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Este Readme servirá como seu guia para o entendimento deste projeto; ele terá como base o template disponiblizado pela própria plataforma do Frontend Mentor.
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo visitando o meu projeto! :D
 
-### Built with
-- Semantic HTML5 markup
-- CSS custom properties
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-### What I learned
-Oiii!
-Neste projeto aproveitei para treinar posicionamentos e seletores no css, em especial o de irmãos e o adjacente, como pode ser mostrado a seguir: 
+## Índice
 
-```Seletor de filho
-#infos>h3 {
-    font-size: 1.6em;
-    color: hsl(218, 44%, 22%);
-}
-```
+- [Visão Geral](#visão-geral)
+    -[Captura de Tela](#captura-de-tela)
+    -[Links](#links)
+- [Meu processo](#meu-processo)
+    -[Construído com](#construído-com)
+    -[O que aprendi](#o-que-aprendi)
+    -[Desenvolvimento Contínuo](#desenvolvimento-contínuo)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-```Seletor de irmão adjacente
-#infos h3+p {
-    padding: 0 7px;
-    font-size: 1.1em;
-    color: hsl(220, 15%, 55%);
-}
-```
+------------------------------------------------------------------------------------------------------------------------------------------------
+
