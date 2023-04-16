@@ -12,7 +12,6 @@ Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo vis
 
 - [Visão Geral](#visão-geral)
     -[Captura de Tela](#captura-de-tela)
-    -[Links](#links)
 - [Meu processo](#meu-processo)
     -[Construído com](#construído-com)
     -[O que aprendi](#o-que-aprendi)
@@ -25,3 +24,32 @@ Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo vis
 ## Visão Geral
 ### Captura de tela
 ![](./design/Resolu%C3%A7%C3%A3o.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Meu Processo 
+### Construído com 
+- HTML 
+- CSS
+
+### O que aprendi 
+Nesse desafio quis por em prática os meus conhecimentos sobre seletores, filho e adjacente.
+
+``` Seletor de Filho
+#infos>h3 {
+    font-size: 1.6em;
+    color: hsl(218, 44%, 22%);
+}
+```
+
+``` Seletor de Irmão Adjacente 
+#infos h3+p {
+    padding: 0 7px;
+    font-size: 1.1em;
+    color: hsl(220, 15%, 55%);
+}
+```
+
+### Desenvolvimento Contínuo
+
+------------------------------------------------------------------------------------------------------------------------------------------------
