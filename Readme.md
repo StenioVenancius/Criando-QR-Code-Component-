@@ -69,6 +69,7 @@ Sinta-se avontade para enviar seu feedback!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## EN
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Frontend Mentor - QR code component solution
 Hello!
 Welcome to my solution for the Qr Code Component challenge in Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This Readme will serve as your guide to understanding this project; it will be based on the template provided by the Frontend Mentor platform itself.
@@ -76,6 +77,7 @@ Welcome to my solution for the Qr Code Component challenge in Frontend Mentor (h
 Without further ado, I want to thank you for taking the time to visit my project! :D
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Table of contents
 - [Overview](#Overview)
     -[Screenshot](#screenshot)
@@ -85,3 +87,51 @@ Without further ado, I want to thank you for taking the time to visit my project
     -[Continuous-Development](#Continuous-Development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Overview
+### Print Screen
+![](./design/Resolu%C3%A7%C3%A3o.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## My Process
+### Built with
+- HTML
+- CSS
+
+### What I learned
+In this challenge I wanted to put into practice my knowledge about selectors, son and adjacent.
+
+``` Child Selector
+#infos>h3 {
+    font-size: 1.6em;
+    color: hsl(218, 44%, 22%);
+}
+```
+
+``` Adjacent Selector
+# info h3+p {
+    padding: 0 7px;
+    font-size: 1.1em;
+    color: hsl(220, 15%, 55%);
+}
+```
+
+### Continuous Development
+In the future I want to come back to this project and apply responsiveness techniques. This is where my portfolio journey begins! Good things will come....
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Author
+- Frontend Mentor [@StenioVenancius](frontendmentor.io/profile/StenioVenancius)
+- Twitter [@veennix](https://twitter.com/veennix)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Acknowledgments
+Thank you so much for reading this far ❣️
+Feel free to submit your feedback!
+
+------------------------------------------------------------------------------------------------------------------------------------------------
